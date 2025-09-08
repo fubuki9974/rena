@@ -1,0 +1,13 @@
+BOT_TOKEN=your_bot_token_here
+GUILD_ID=your_guild_id_here
+WELCOME_CHANNEL_ID=welcome_channel_id
+LOG_CHANNEL_ID=log_channel_id
+QUOTE_CHANNEL_ID=quote_channel_id
+WELCOME_IMAGE_URL=https://example.com/welcome-image.jpg
+PREFIX=!
+OWNER_ID=your_user_id
+
+# --- Tambahan untuk fitur verifikasi & dropdown ---
+VERIFIED_ROLE_ID=role_id_verified
+ROLE_DESIGNER=role_id_designer
+ROLE_ARTIST=role_id_artist
