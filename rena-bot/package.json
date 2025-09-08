@@ -1,0 +1,19 @@
+{
+  "name": "rena-bot",
+  "version": "1.0.0",
+  "description": "Aesthetic Discord bot with automod, welcome embed, scheduler, role dropdown, verify, simple music, and full logs. Ready for Railway.",
+  "main": "src/index.js",
+  "scripts": {
+    "start": "node src/index.js"
+  },
+  "engines": {
+    "node": ">=18"
+  },
+  "dependencies": {
+    "discord.js": "^14.11.0",
+    "@discordjs/voice": "^0.16.0",
+    "ytdl-core": "^4.11.0",
+    "node-cron": "^3.0.2",
+    "dotenv": "^16.0.3"
+  }
+}
